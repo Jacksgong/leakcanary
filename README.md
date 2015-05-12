@@ -1,5 +1,4 @@
 # Leakcanary Square的一款Android/Java内存泄露检测工具
-@(Android)[Sqare|内存泄露|Android]
 
 > git地址: [square/leakcanary](https://github.com/square/leakcanary)
 
